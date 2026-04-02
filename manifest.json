@@ -1,6 +1,6 @@
 {
   "name": "Unlimited Daily Saves for Pixlr.com",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "manifest_version": 3,
   "description": "Removes the 3 saves per day limit on Pixlr apps.",
   "icons": {
