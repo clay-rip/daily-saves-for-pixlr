@@ -1,4 +1,4 @@
-(function() {
+window.addEventListener('load', function () {
     let fakeDay = Math.floor(Math.random() * 10000) + 1000;
 
     const nativeUTC = Date.UTC;
@@ -15,4 +15,4 @@
     setInterval(() => {
         fakeDay++;
     }, 2000);
-})();
+});
