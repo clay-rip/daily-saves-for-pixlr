@@ -18,5 +18,10 @@
       "run_at": "document_start",
       "world": "MAIN"
     }
-  ]
+  ],
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "pixlrSaves@clay.rip"
+    }
+  }
 }
